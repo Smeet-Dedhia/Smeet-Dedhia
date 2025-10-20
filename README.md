@@ -10,7 +10,8 @@ I enjoy turning complex systems into intuitive, automated, and intelligent produ
 
 - 🔹 **Currently:** Graduate student at **University of Washington (MS in Data Science)**  
 - 🔹 **Work Experience:** **Microsoft, Intuitive, ATX Labs, ION Group, and UPL Ltd.**  
-- 🔹 **Domains:** Agentic AI · MLOps · Full-Stack Development · Data Science & Engineering  
+- 🔹 **Domains:** Agentic AI · MLOps · Full-Stack Development · Data Science & Engineering
+- 💼 **Looking for full time roles from March 2026. Hit me up!**
 
 I’ve collaborated in **large, fast-paced teams** to build products that operate at scale. From enterprise FinTech SDKs and internal AI copilots to predictive analytics systems for real-world clients.  
 I’m equally comfortable designing distributed systems and fine-tuning LLMs for contextual intelligence.  
