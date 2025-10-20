@@ -59,7 +59,7 @@ I’m equally comfortable designing distributed systems and fine-tuning LLMs for
 ## 📫 Let’s Connect  
 
 📧 **smeetd1502@gmail.com**  
-🔗 [LinkedIn](#) · [GitHub](#) · [LeetCode](#)  
+🔗 [LinkedIn](https://www.linkedin.com/in/smeet-dedhia-9b430621b/) · [Resume](https://drive.google.com/file/d/11JuDkQApZ_iwDlZngauKeHsl0vN9I1H-/view?usp=share_link) · [LeetCode](https://leetcode.com/u/smeetd1502/)  
 
 ---
 
